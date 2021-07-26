@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517351525 source:c:\users\arek\desktop\projekty\baza danych\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<stdlib.h>
+
